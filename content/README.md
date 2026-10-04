@@ -11,7 +11,7 @@ Files, in posting order:
 ## Rules baked into every post
 
 - **GHL:** every post names GoHighLevel/GHL as where the sites and offers are built. GHL website reselling to local service businesses is framed as "the easiest recurring-income model i've found, whether or not you're experienced". It's always opinion, never a guarantee.
-- **Length:** every post is 1,500+ characters (avg ~1,700). Check your X plan's character limit before scheduling.
+- **Length:** every post is 3,500+ characters (avg ~3,700, max ~4,400), matching the long end of the reference posts (the AI-stack post is ~3,900). Check your X plan's character limit before scheduling: long posts need X Premium.
 - **Formats** (from the reference posts): E = learn/practice/why stages. T = ALL-CAPS categories with bracketed reasons. S = one-line-per-paragraph confession. A = `[ bracket headers ]`. V = poll/inventory with a "drop yours below" prompt.
 - **No income or client-count claims.** Stories are from the ebook. Facts you must supply or delete are `[FILL]`. GHL pricing or feature details to confirm before posting are `[VERIFY]`.
 - **No CTAs or links** for 3 weeks. Week 4 intro of the Suite is planned separately.
