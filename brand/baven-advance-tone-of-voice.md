@@ -179,3 +179,31 @@ leverage, synergy, cutting-edge, revolutionary, game-changing, solutions, state-
 3. Is the outcome before the technology?
 4. Could a plumber, a lender and a clinic owner all understand it on first read?
 5. Is every claim real or clearly placeholdered?
+
+---
+
+## 9. Approved hero copy (use verbatim)
+
+| Slot | Copy |
+|---|---|
+| **Hero headline** | Your growth, our problem. |
+| **Subline** | Technology is the easy part. Knowing where to point it is the advantage. |
+| **Supporting line** | Built with you. Improved every month. |
+| **Trust line** | If it doesn't move your numbers, we haven't finished. |
+| **CTA** | Book a Discovery Call |
+
+The partner positioning is **implied, never stated**. Do not use the phrases "AI partner" or "not an agency" in headlines. It shows through four things:
+
+1. **Shared ownership.** We put ourselves on the hook for the result ("our problem", "we haven't finished").
+2. **Continuity.** We stay after launch ("improved every month").
+3. **Judgment.** We know where to point the technology and where not to.
+4. **Proximity.** We work with you ("built with you").
+
+### Implied-positioning bank (use across the site)
+- **Ownership:** "Your pipeline is our scoreboard." · "We win when you book more, not when we send an invoice."
+- **Continuity:** "Launch is the starting line." · "We build it. Then we stay." · "Month three should beat month one."
+- **Proximity:** "The AI team you didn't have to hire." · "Call us before you buy any AI tool."
+- **Honesty:** "We'll tell you what not to automate." · "Sometimes the best AI decision is not to build."
+- **Specialism:** "Lenders. Clinics. Trades. It's all we do." · "We don't learn your industry on your dime."
+- **Reframe:** "Nobody wants AI. They want more booked jobs."
+- **Vocabulary swaps:** "How we work with you" (not Services) · "Start the conversation" (not Get a quote).

@@ -40,19 +40,20 @@
   <!-- labels -->
   <g font-size="20" fill="#9AA6E8" letter-spacing="2">
     <text x="790" y="715">YOUR BUSINESS</text>
-    <text x="1005" y="585">YOUR AI PARTNER</text>
+    <text x="1005" y="585">BAVEN, WITH YOU</text>
     <text x="1290" y="330">COMPOUNDING RESULTS</text>
   </g>
   <!-- left copy -->
   <g>
     <rect x="100" y="120" width="12" height="12" rx="3" fill="#2EF2C8"/>
     <text x="126" y="132" font-size="22" font-weight="700" fill="#fff" letter-spacing="6">BAVEN ADVANCE</text>
-    <text x="100" y="330" font-size="84" font-weight="800" fill="#fff">Not an agency.</text>
-    <text x="100" y="430" font-size="84" font-weight="800" fill="#2EF2C8">Your AI partner.</text>
-    <text x="100" y="505" font-size="30" fill="#B9C2F0">We find where AI makes you money, build it,</text>
-    <text x="100" y="548" font-size="30" fill="#B9C2F0">and stay to make it better every month.</text>
+    <text x="100" y="330" font-size="84" font-weight="800" fill="#fff">Your growth,</text>
+    <text x="100" y="430" font-size="84" font-weight="800" fill="#2EF2C8">our problem.</text>
+    <text x="100" y="505" font-size="30" fill="#B9C2F0">Technology is the easy part.</text>
+    <text x="100" y="548" font-size="30" fill="#B9C2F0">Knowing where to point it is the advantage.</text>
     <rect x="100" y="620" width="300" height="68" rx="34" fill="#2EF2C8"/>
     <text x="250" y="663" text-anchor="middle" font-size="24" font-weight="800" fill="#070B1A">Book a Discovery Call</text>
-    <text x="100" y="800" font-size="20" fill="#7C88C9" letter-spacing="3">STRATEGY  ·  BUILD  ·  PARTNERSHIP</text>
+    <text x="100" y="750" font-size="22" fill="#2EF2C8">If it doesn't move your numbers, we haven't finished.</text>
+    <text x="100" y="810" font-size="20" fill="#7C88C9" letter-spacing="3">BUILT WITH YOU.  IMPROVED EVERY MONTH.</text>
   </g>
 </svg>
