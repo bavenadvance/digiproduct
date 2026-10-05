@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B1A"/><stop offset="1" stop-color="#101B3D"/>
+    </linearGradient>
+    <linearGradient id="path" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B6CFF"/><stop offset="1" stop-color="#2EF2C8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2EF2C8" stop-opacity="0.45"/><stop offset="1" stop-color="#2EF2C8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5B6CFF" stop-opacity="0.5"/><stop offset="1" stop-color="#5B6CFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <!-- grid -->
+  <g stroke="#ffffff" stroke-opacity="0.05">
+    <path d="M0 150H1600M0 300H1600M0 450H1600M0 600H1600M0 750H1600"/>
+    <path d="M200 0V900M400 0V900M600 0V900M800 0V900M1000 0V900M1200 0V900M1400 0V900"/>
+  </g>
+  <!-- visual: right side -->
+  <circle cx="1130" cy="450" r="330" fill="url(#glow2)"/>
+  <circle cx="1130" cy="450" r="250" fill="none" stroke="#fff" stroke-opacity="0.08"/>
+  <circle cx="1130" cy="450" r="170" fill="none" stroke="#fff" stroke-opacity="0.12"/>
+  <!-- ascending path -->
+  <path d="M860 640 C 960 640, 980 520, 1080 500 S 1230 330, 1380 240" fill="none" stroke="url(#path)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M860 640 C 960 640, 980 520, 1080 500 S 1230 330, 1380 240" fill="none" stroke="url(#path)" stroke-width="22" stroke-opacity="0.18" stroke-linecap="round"/>
+  <!-- client node -->
+  <circle cx="860" cy="640" r="46" fill="#0D1530" stroke="#5B6CFF" stroke-width="4"/>
+  <text x="860" y="646" text-anchor="middle" font-size="18" font-weight="700" fill="#C9D0FF">YOU</text>
+  <!-- partner node -->
+  <circle cx="1080" cy="500" r="64" fill="url(#glow)"/>
+  <circle cx="1080" cy="500" r="40" fill="#0D1530" stroke="#2EF2C8" stroke-width="4"/>
+  <text x="1080" y="506" text-anchor="middle" font-size="26" font-weight="800" fill="#2EF2C8">B</text>
+  <!-- outcome node -->
+  <circle cx="1380" cy="240" r="90" fill="url(#glow)"/>
+  <circle cx="1380" cy="240" r="30" fill="#2EF2C8"/>
+  <path d="M1366 242l10 10 18-22" fill="none" stroke="#070B1A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- labels -->
+  <g font-size="20" fill="#9AA6E8" letter-spacing="2">
+    <text x="790" y="715">YOUR BUSINESS</text>
+    <text x="1005" y="585">YOUR AI PARTNER</text>
+    <text x="1290" y="330">COMPOUNDING RESULTS</text>
+  </g>
+  <!-- left copy -->
+  <g>
+    <rect x="100" y="120" width="12" height="12" rx="3" fill="#2EF2C8"/>
+    <text x="126" y="132" font-size="22" font-weight="700" fill="#fff" letter-spacing="6">BAVEN ADVANCE</text>
+    <text x="100" y="330" font-size="84" font-weight="800" fill="#fff">Not an agency.</text>
+    <text x="100" y="430" font-size="84" font-weight="800" fill="#2EF2C8">Your AI partner.</text>
+    <text x="100" y="505" font-size="30" fill="#B9C2F0">We find where AI makes you money, build it,</text>
+    <text x="100" y="548" font-size="30" fill="#B9C2F0">and stay to make it better every month.</text>
+    <rect x="100" y="620" width="300" height="68" rx="34" fill="#2EF2C8"/>
+    <text x="250" y="663" text-anchor="middle" font-size="24" font-weight="800" fill="#070B1A">Book a Discovery Call</text>
+    <text x="100" y="800" font-size="20" fill="#7C88C9" letter-spacing="3">STRATEGY  ·  BUILD  ·  PARTNERSHIP</text>
+  </g>
+</svg>
